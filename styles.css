@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+  
+}
+/* html{
+    font-size: 16px;
+} */
+
+
+/* .forma1{
+    background-color: red;
+
+    width: 100vw;
+    height: 100vh;
+    font-size: 3rem;
+    font-size: 32px;
+    color: white;
+    font-weight: bolder;
+} */
+ .forma1 {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding: 125px 50px 35px 75px;
+    /* border-top: 5px solid orange;
+    border-right: 20px solid orange; */
+    border: 25px solid yellow;
+    margin: 25px;
+
+ }
+ span1{
+    background-color: aqua;
+    color: white;
+    padding: 25px;
+    border: 25px olivedrab;
+
+ }
+ span2{
+    background-color: rgb(55, 219, 18);
+    color: white;
+
+ }
+.forma2{
+    background-color: green;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+.uno{
+background-color: orange;
+margin: 25px;
+padding: 25px ;
+border: 12px solid black;
+margin-top: 30px;
+
+}
+.dos{
+    background-color: orange;
+    margin: 12px;
+    padding: 25px ;
+    border: 12px solid black;
+    margin-top: 30px;
+    
+    }
+    .tres{
+        background-color: orange;
+        margin: 25px;
+        padding: 25px ;
+        border: 12px solid black;
+        margin-top: 30px;
+        
+        }
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+} */
+ .contenedor {
+
+    display: flex ;
+    background-color: red;
+    padding: 25px;
+ }
